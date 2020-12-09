@@ -1,4 +1,4 @@
-# Computer-Graphics-Course-Project
+# 3D_Surface_Reconstruction_using_RBF
 
 Requirements: 
 
